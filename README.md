@@ -15,7 +15,6 @@ To run WEDDFIT locally, follow these steps:
 
 1. Clone the repository: git clone https://github.com/your-username/WEDDFIT.git
 2. Open the project folder: cd WEDDFIT
-3. 
 3. Open the `index.html` file in a web browser.
 
 ## Usage
