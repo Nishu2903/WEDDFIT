@@ -1,5 +1,6 @@
 # WEDDFIT
 
+
 WEDDFIT is a wedding cloth renting website that allows users to browse and rent wedding attire for men and women. It is built using HTML, CSS, and JavaScript and includes a signup feature and separate columns for men and women's clothing.
 
 **Features**<br>
