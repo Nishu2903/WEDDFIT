@@ -2,7 +2,7 @@
 
 WEDDFIT is a wedding cloth renting website that allows users to browse and rent wedding attire for men and women. It is built using HTML, CSS, and JavaScript and includes a signup feature and separate columns for men and women's clothing.
 
-**Features<br>
+**Features**<br>
 ***
 
 - Clothing Rental: Users can browse through a collection of wedding attire for both men and women. They can view detailed information about each item, including descriptions, sizes, and rental prices.
@@ -10,7 +10,7 @@ WEDDFIT is a wedding cloth renting website that allows users to browse and rent 
 - Separate Columns: WEDDFIT offers separate columns for men and women's clothing, making it easy for users to navigate and find the attire they are interested in.
 - User-Friendly Interface: The website has a clean and intuitive interface that provides a seamless user experience. Users can easily search for specific items, filter by categories or sizes, and add desired items to their rental cart.
 
-**Installation<br>
+**Installation**<br>
 ***
 
 To run WEDDFIT locally, follow these steps:
@@ -19,7 +19,7 @@ To run WEDDFIT locally, follow these steps:
 2. Open the project folder: cd WEDDFIT
 3. Open the `index.html` file in a web browser.
 
-**Usage<br>
+**Usage**<br>
 ***
 1. Sign up for a new account on the WEDDFIT website.
 2. Browse through the available wedding attire in the men and women's sections.
@@ -29,7 +29,7 @@ To run WEDDFIT locally, follow these steps:
 6. Proceed to checkout and provide the necessary details.
 7. Confirm your rental order and make the payment.
 
-**Contributing<br>
+**Contributing**<br>
 ***
 
 We welcome contributions to enhance and improve WEDDFIT. To contribute, please follow these guidelines:
